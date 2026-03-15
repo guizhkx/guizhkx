@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**guizhkx/guizhkx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Guilherme Mota.
 
-Here are some ideas to get you started:
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Aprendendo programação e desenvolvimento web  
+🚀 Buscando evoluir como desenvolvedor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias que estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-red?style=for-the-badge&logo=gmail)](mailto:guilhermemcabrall@gmail.com)
